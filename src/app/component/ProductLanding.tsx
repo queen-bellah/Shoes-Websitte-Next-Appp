@@ -71,7 +71,7 @@ const ProductLanding = () => {
           <div className="flex flex-col md:flex-row items-center p-8 md:p-12 gap-8">
             {/* Left content */}
             <div className="w-full md:w-1/2 space-y-6">
-              <h1 className="text-white text-6xl md:text-7xl font-bold">
+              <h1 className= "text-white text-6xl md:text-7xl font-bold">
               Luis Viutton
               </h1>
               <div className="text-white text-3xl font-bold">
