@@ -56,7 +56,7 @@ next-env.d.ts
 .tmp
 .cache/
 
-#Ignoring specific build artifacts (optional)
+# Ignoring specific build artifacts (optional)
 *.bak
 *.backup
 *.temp
