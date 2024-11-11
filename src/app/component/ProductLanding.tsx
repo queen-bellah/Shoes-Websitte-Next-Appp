@@ -78,7 +78,7 @@ const ProductLanding = () => {
                 $200
               </div>
               <p className="text-gray-300 text-sm leading-relaxed">
-                Nothing as fly, nothing as comfortable, nothing as proven—the Luis Viutton stays true to its roots 
+                 Nothing as fly, nothing as comfortable, nothing as proven—the Luis Viutton stays true to its roots 
                 with the iconic Waffle sole, stitched overlays and classic TPU accents.
               </p>
               <button className="bg-white/20 hover:bg-white/30 text-white px-6 py-2 rounded-full text-sm transition-all">
